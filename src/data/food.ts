@@ -15,12 +15,12 @@ export interface FoodItem {
 export const FOOD_ITEMS: Array<FoodItem> = [
   {
     name: "Sushi",
-    kcal: 45,
+    kcal: 1000,
     imageUrl: Sushi
   },
   {
     name: "Maki",
-    kcal: 20,
+    kcal: 1000,
     imageUrl: Maki
   },
   {
